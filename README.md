@@ -69,7 +69,7 @@ git hub connection
 </pre>
 <pre>
   <code id="example-code">
-    ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+    ssh-keygen -t rsa -b 4096 -C "github@smtech24.com"
   </code>
 </pre>
 <pre>
